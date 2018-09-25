@@ -1,0 +1,50 @@
+/* This is my basic style sheet */
+@charset "utf-8";
+
+body {
+
+	background-color: #E0C9B9;
+
+}
+
+h1 {
+	font-family: Stencil std, fantasy;
+	color: #636F57;
+	font-size: 72px;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	font-size: 32px;
+}
+
+p {
+	font-size: 20px;
+}
+
+li {
+	font-size: 20px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+a:link {
+	color:#636F57;
+	font-size: 58px;
+	font-family: Stencil std, fantasy; 
+	text-decoration: none;
+}
+
+a:visited{
+	color:#636F57;
+	text-decoration: none;
+}
